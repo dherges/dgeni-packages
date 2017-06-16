@@ -52,5 +52,8 @@
   },
   "include": [
     "src"
+  ],
+  "exclude": [
+    "mocks"
   ]
 }
